@@ -1,4 +1,4 @@
-# air quality monitor using the Raspberry Pi Pico W
+# Monitoring Your air quality with the Raspberry Pi Pico W
 
 Checkout the whole story on [Medium](https://medium.com/@lukas.krimphove).
 
