@@ -12,6 +12,6 @@ jobs:
         with:
           auth: ${{ secrets.GIST_TOKEN }}
           gist_url: https://gist.github.com/lkrimphove/a7cf42fd704b83dfc969a85e0832ee32
-          gist_title: air-quality-monitor
-          gist_description: code.py
+          gist_title:  code.py
+          gist_description: main code
           github_file: code.py
