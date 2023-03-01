@@ -1,0 +1,6 @@
+WIFI_SSID = "your-wifi-ssid"
+WIFI_PASSWORD = "your-wifi-password"
+AIO_USERNAME = "your-username"
+AIO_KEY = "your-username-key"
+BROKER = "io.adafruit.com"
+PORT = 1883
